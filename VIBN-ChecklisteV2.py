@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 
-# Fragenstruktur für Mechanik, Elektronik, Steuerung (vollständig)
+# Fragenstruktur für Mechanik, Elektronik, Steuerung 
 fragenbereiche = {
     "Mechanik": [
         ("Sind mechanische Modelle vollständig und aktuell?", [
